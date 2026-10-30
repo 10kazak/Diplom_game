@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\dp\\diplom\\assets\\aienemylibrary\\scripts\\behaviours\\searchbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\behaviours\\searchbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\behaviours\\chasebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\behaviours\\chasebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\dp\\diplom\\assets\\aienemylibrary\\scripts\\sensors\\targetmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\sensors\\targetmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\behaviours\\attackbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\behaviours\\attackbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\behaviours\\idlebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\behaviours\\idlebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\behaviours\\randompatrolbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\behaviours\\randompatrolbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\core\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\core\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\core\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\core\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\core\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\core\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\core\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\core\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\sensors\\hearingsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\sensors\\hearingsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\sensors\\actionnoiseemitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\sensors\\actionnoiseemitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\sensors\\movementnoisedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\sensors\\movementnoisedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\sensors\\objectinteractionnoise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\sensors\\objectinteractionnoise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\core\\simplefirstpersonrigidbodycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\core\\simplefirstpersonrigidbodycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\sensors\\noisesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\sensors\\noisesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\sensors\\visionsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\sensors\\visionsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\sensors\\noiseemitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\sensors\\noiseemitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\behaviours\\patrolbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\behaviours\\patrolbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\animation\\animationcontrollerbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\animation\\animationcontrollerbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\assets\\aienemylibrary\\scripts\\core\\aibehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\aienemylibrary\\scripts\\core\\aibehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchBehaviour.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\SearchBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\SearchBehaviour.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\SearchBehaviour.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\SearchBehaviour.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAUwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:47:11.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActionNoiseEmitter.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\ActionNoiseEmitter.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\ActionNoiseEmitter.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\ActionNoiseEmitter.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\ActionNoiseEmitter.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAUwOIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:29:42.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HearingSensor.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\HearingSensor.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\HearingSensor.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\HearingSensor.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\HearingSensor.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:32:54.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TargetMemory.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\TargetMemory.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\TargetMemory.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\TargetMemory.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\TargetMemory.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAiwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:39:59.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Core\\AIController.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Core\\AIController.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Core\\AIController.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Core\\AIController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAUwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:41:43.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChaseBehaviour.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\ChaseBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\ChaseBehaviour.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\ChaseBehaviour.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\ChaseBehaviour.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:42:30.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttackBehaviour.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\AttackBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\AttackBehaviour.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\AttackBehaviour.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\AttackBehaviour.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAADwv/cAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:43:00.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Core\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Core\\Projectile.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Core\\Projectile.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Core\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T17:25:57.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Core\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Core\\IDamageable.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Core\\IDamageable.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Core\\IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:52:34.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Health.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Core\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Core\\Health.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Core\\Health.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Core\\Health.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:53:21.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomPatrolBehaviour.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\RandomPatrolBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\RandomPatrolBehaviour.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\RandomPatrolBehaviour.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\RandomPatrolBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:41:48.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdleBehaviour.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\IdleBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\IdleBehaviour.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\IdleBehaviour.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\IdleBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:42:10.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovementNoiseDriver.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\MovementNoiseDriver.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\MovementNoiseDriver.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\MovementNoiseDriver.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\MovementNoiseDriver.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAJcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:30:24.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ObjectInteractionNoise.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\ObjectInteractionNoise.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\ObjectInteractionNoise.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\ObjectInteractionNoise.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\ObjectInteractionNoise.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:30:48.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SimpleFirstPersonRigidbodyController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Core\\SimpleFirstPersonRigidbodyController.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Core\\SimpleFirstPersonRigidbodyController.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Core\\SimpleFirstPersonRigidbodyController.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Core\\SimpleFirstPersonRigidbodyController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAUwIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:33:08.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NoiseSystem.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\NoiseSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\NoiseSystem.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\NoiseSystem.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\NoiseSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:21:13.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PatrolBehaviour.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\PatrolBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\PatrolBehaviour.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\PatrolBehaviour.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Behaviours\\PatrolBehaviour.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:36:05.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NoiseEmitter.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\NoiseEmitter.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\NoiseEmitter.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\NoiseEmitter.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\NoiseEmitter.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:21:43.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VisionSensor.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\VisionSensor.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\VisionSensor.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Sensors\\VisionSensor.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Sensors\\VisionSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:40:26.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AnimationControllerBridge.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Animation\\AnimationControllerBridge.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Animation\\AnimationControllerBridge.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Animation\\AnimationControllerBridge.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Animation\\AnimationControllerBridge.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:41:20.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AIBehaviour.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Core\\AIBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\AIEnemyLibrary\\Scripts\\Core\\AIBehaviour.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\Dp\\Diplom\\Assets\\AIEnemyLibrary\\Scripts\\Core\\AIBehaviour.cs",
+              "RelativeToolTip": "Assets\\AIEnemyLibrary\\Scripts\\Core\\AIBehaviour.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:39:06.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
